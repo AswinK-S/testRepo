@@ -27,3 +27,5 @@ Conflict
          Then make  changes to that  file from both the  different branches and commit it, 
          After that when we try to merge any of the branch then there will be conflict.
          fix it manually
+Clone
+------
