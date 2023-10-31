@@ -3,3 +3,6 @@ Hello, Welcome to GitHub
 git testing...!
 
 git diff - to know the difference 
+
+Conflict
+--------
