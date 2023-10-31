@@ -25,4 +25,7 @@ git diff - to know the difference
 
 Conflict
 --------
-          add changes to the same file from different branches, after that if we try to merge then there will be conflict
+         Suppose there are 2 branches and one text file or html file. 
+         Then make  changes to that  file from both the  different branches and commit it, 
+         After that when we try to merge any of the branch then there will be conflict.
+         fix it manually
