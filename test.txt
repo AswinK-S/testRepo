@@ -25,3 +25,4 @@ git diff - to know the difference
 
 Conflict
 --------
+          add changes to the same file from different branches, after that if we try to merge then there will be conflict
