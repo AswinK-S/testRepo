@@ -2,6 +2,20 @@ Hello, Welcome to GitHub
 
 git testing...!
 
+git add . , git add --all               -add the changes to the git 
+git commit -m " enter the message "     - includes the changes to the commit 
+git push                                -  upload the changes that made to the github remote repo
 
-git merge <the name of the branch to merge>
+Branch
+-------
+git branch <enter the branch name>     - create a new  branch
+git checkout <branch name>              - switch to the mentioned branch name
+
+
+Merge 
+------
+    first switch to the branch, from where we want to merge
+
+  git merge <name of the branch to merge >  -  to merge the changes , it is called ( fast-forward Merge ).
+  
 git diff - to know the difference 
