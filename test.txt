@@ -2,4 +2,6 @@ Hello, Welcome to GitHub
 
 git testing...!
 
+
+git merge <the name of the branch to merge>
 git diff - to know the difference 
