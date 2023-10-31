@@ -2,7 +2,6 @@ Hello, Welcome to GitHub
 
 git testing...!
 
-<<<<<<< HEAD
 git add . , git add --all               -add the changes to the git 
 git commit -m " enter the message "     - includes the changes to the commit 
 git push                                -  upload the changes that made to the github remote repo
@@ -20,8 +19,7 @@ Merge
   git merge <name of the branch to merge >  -  to merge the changes , it is called ( fast-forward Merge ).
   
 git diff - to know the difference 
-=======
-git diff - to know the difference 
+
 
 Conflict
 --------
